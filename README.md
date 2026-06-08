@@ -1,1 +1,6 @@
-# lx_second_lesson
+# CV Lesson 2
+
+## This is wonderful lesson
+
+* students
+* Tutors
